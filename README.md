@@ -7,8 +7,7 @@ This project aimed to develop a data-driven system that optimizes crop rotation 
 ## How to Test the Code
 
 1. **Download or clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/projectname.git
+
 2. **Install required dependencies:**
    Make sure you have Python and the necessary libraries installed (pandas, matplotlib, seaborn, scikit-learn).  You can install them using:
    ```bash
